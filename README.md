@@ -325,7 +325,7 @@ Aplicación backend para la gestión de reservas, turnos, usuarios, servicios y 
             ├── package.json
             ├── README.md
             └── requirements.txt
-```
+        ```
 
     
 ## Reportes.
