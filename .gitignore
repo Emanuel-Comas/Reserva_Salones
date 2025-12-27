@@ -1,0 +1,6 @@
+# Ignora node_modules
+node_modules/
+.env
+access.log
+package-lock.json
+package.json
